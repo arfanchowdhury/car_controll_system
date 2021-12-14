@@ -11,15 +11,15 @@
    Initially, the robot will be equipped with a camera which will capture the scenes and transfer the images to the server on which the user will be controlling and watching the live feed.
 
 ### Technologies 
-- Python 3
-- web-socket
-- remo-tv
-- raspbian OS
+- [Python 3](https://www.python.org/downloads)
+- [web-socket](https://websockets.readthedocs.io/en/stable/index.html)
+- [remo-tv](https://remo.tv)
+- [raspbian OS](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system)
 
 ### Hardware 
-- Raspberry Pi 4
-- Pi-Camera
-- Motor Driver L298n
+- [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b)
+- [Pi-Camera](https://picamera.readthedocs.io/en/release-1.13)
+- [Motor Driver L298n](https://maker.pro/raspberry-pi/tutorial/how-to-control-a-dc-motor-with-an-l298-controller-and-raspberry-pi)
 - DC Motor
 - RC Car Chassis
 - Battery etc.
