@@ -28,7 +28,7 @@
 ### Basic setup guide
 If this is your first time working with a Raspberry Pi or Linux, we recommend following our [initializtion tutorial](https://github.com/remotv/controller/wiki/Initializing-the-Raspberry-Pi) to get started.
 
-### Installing remotv control scripts on a Raspberry Pi
+### Installing car_controll_system scripts on a Raspberry Pi
 
 If doing things manually isn't your style, we made an [optional guided installation](https://github.com/remotv/controller/wiki/Optional-Guided-Installation-Script) script that handles mostly everything for you.
 
