@@ -1,0 +1,47 @@
+snapshot.jpg
+single_frame_image.jpg
+robotoutput.txt
+nohup.out
+npm-debug.log
+gpio.conf
+
+#ignore jetbrains files
+.idea/
+
+#ignore VS Code files
+.vscode*
+
+#ignore (open?) files with ~ in name:
+*~
+*.pyc
+*.swp
+
+#ignore emacs temporary files
+\#*\#
+.\#*
+
+# Ignore Python Virtualenvironment
+bin/
+lib/
+lib64
+share/
+pyvenv.cfg
+
+*.bak
+*.log
+*.log.1
+*.log.2
+*.log.3
+*.log.4
+*.log.5
+
+
+controller.conf
+hardware/hardware_custom.py
+tts/tts_custom.py
+chat_custom.py
+tts/secret.py
+video/video_custom.py
+
+hardware/maestro.py
+hardware/ThunderBorgLib.py
